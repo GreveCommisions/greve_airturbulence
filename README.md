@@ -1,2 +1,3 @@
 # greve_airturbulence
-Luftturbulens Script - Laget for Core RP
+
+An simple air turbulence handler - Made for Core RP.
